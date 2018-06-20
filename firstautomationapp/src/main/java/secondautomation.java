@@ -5,7 +5,6 @@ import org.testng.annotations.Test;
 
 
 public class secondautomation {
-
     @Test
     public void test() throws InterruptedException {
         System.setProperty("webdriver.chrome.driver", "/Users/thanosbabalas/IdeaProjects/firstautomationapp/src/main/resources/chromedriver");
