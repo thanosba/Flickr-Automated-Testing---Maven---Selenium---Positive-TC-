@@ -28,11 +28,3 @@ public class secondautomation {
         driver.quit();
         }
     }
-
-
-
-
-
-
-
-
